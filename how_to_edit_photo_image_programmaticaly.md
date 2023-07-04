@@ -18,7 +18,7 @@ In this article, we consider how to use the most demanded operations for image e
 - [Resize](#resizing-an-image)
 - [Crop](#crop-an-image)
 - [Rotate](#rotate)
-- Remove background
+- [Remove background](#remove-background)
 - Filter
 - Merge
 - Grayscale
@@ -49,3 +49,10 @@ Another widely used operation of image editing is image cropping. An image or ph
 Original photos may have the wrong orientation due to a photographer had took photo shots with various camera rotations and embedded auto-rotation does not work properly. The information about picture orientation is usually written down in the image EXIF metadata by camera software and used for rotation. You can rotate images programmable by 90/180/270-degree angles or flip photos vertically or horizontally to fix this issue. In some cases, the photos were made with a mistake of horizon slop, the horizon line has not strongly horizontal. The program library gives you the possibility to rotate an image on a specific angle as well.
 
 A more detailed description of resize, crop and rotate operations you could find in the official documentation [link](https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/).
+
+
+## Remove background
+
+Sometimes you need to remove a background from a photo and leave only human's figures or other objects on a white field. Removing a picture background or editing a photo background are more complicated tasks than the basic image manipulations mentioned above. With Aspose.Imaging library you can effectively remove or change a photo background. The image library could automatically mask background pixels and set them to zero (white color) or another color. Additionally Imaging.Cloud API could be used for improving masking results. The Cloud API is used for detecting objects on a photo and applying detected objects bounds to the image more precisely.
+
+[removing-background-from-images] https://docs.aspose.com/imaging/net/removing-background-from-images/
