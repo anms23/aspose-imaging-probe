@@ -19,7 +19,7 @@ In this article, we consider how to use the most demanded operations for image e
 - [Crop](#crop-an-image)
 - [Rotate](#rotate)
 - [Remove background](#remove-background)
-- Filter
+- [Filter](#filter-an-image)
 - Merge
 - Grayscale
 - Dither
@@ -53,6 +53,18 @@ A more detailed description of resize, crop and rotate operations you could find
 
 ## Remove background
 
-Sometimes you need to remove a background from a photo and leave only human's figures or other objects on a white field. Removing a picture background or editing a photo background are more complicated tasks than the basic image manipulations mentioned above. With Aspose.Imaging library you can effectively remove or change a photo background. The image library could automatically mask background pixels and set them to zero (white color) or another color. Additionally Imaging.Cloud API could be used for improving masking results. The Cloud API is used for detecting objects on a photo and applying detected objects bounds to the image more precisely.
+Sometimes you need to remove a background from a photo and leave only human's figures or other objects on a white field. Removing a picture background or editing a photo background are more complicated tasks than the basic image manipulations mentioned above. With Aspose.Imaging library you can effectively remove or change a photo background. The image library could automatically mask background pixels and set them to zero (white color) or another color. Additionally Imaging.Cloud API could be used for improving masking results. The Cloud API is used for detecting objects on a photo and applying detected objects' bounds to the image more precisely.
 
-[removing-background-from-images] https://docs.aspose.com/imaging/net/removing-background-from-images/
+Please follow the link for the code examples: 
+[removing-background-from-images](https://docs.aspose.com/imaging/net/removing-background-from-images/)
+
+
+## Filter an image
+
+Applying filters to images is a very popular operation of image quality enhancement. You may need to make an image more sharp or on the contrary blur them. You could quickly apply several filters using the C# program. Aspose.Imaging proposes a list of available filters for smoothing images with noise reduction, but preserving objects' edges, changing brightness and contrast for reducing overexposure of photography or lightening too dark parts, and emphasizing details.
+
+List of available filters:
+[filteroptions](https://reference.aspose.com/imaging/net/aspose.imaging.imagefilters.filteroptions/)
+
+C# code example for image filtering:
+[filter-image-example](https://products.aspose.com/imaging/net/filter/png/)
