@@ -46,8 +46,6 @@ Another widely used operation of image editing is image cropping. An image or ph
 
 ## Rotate
 
-Original photos may have the wrong orientation due to the photographer taking photo shots with various camera rotations and embedded auto-rotation does not work properly. 
-
-
+Original photos may have the wrong orientation due to a photographer had took photo shots with various camera rotations and embedded auto-rotation does not work properly. The information about picture orientation is usually written down in the image EXIF metadata by camera software and used for rotation. You can rotate images programmable by 90/180/270-degree angles or flip photos vertically or horizontally to fix this issue. In some cases, the photos were made with a mistake of horizon slop, the horizon line has not strongly horizontal. The program library gives you the possibility to rotate an image on a specific angle as well.
 
 A more detailed description of resize, crop and rotate operations you could find in the official documentation [link](https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/).
