@@ -20,9 +20,9 @@ In this article, we consider how to use the most demanded operations for image e
 - [Rotate](#rotate)
 - [Remove background](#remove-background)
 - [Filter](#filter-an-image)
-- Merge
-- Grayscale
-- Dither
+- [Merge](#merge-images)
+- [Grayscale](#grayscale)
+- [Dither]()
 - Adjust
 - Binarize
 - Cartoonify
@@ -68,3 +68,15 @@ List of available filters:
 
 C# code example for image filtering:
 [filter-image-example](https://products.aspose.com/imaging/net/filter/png/)
+
+
+## Merge images
+
+To combine several images into one image you can use the merge method of the image library. It is possible to merge images by adding them to the resulting image in horizontal or vertical directions. This approach is suitable for creating large images consisting of many repeated small ones.
+
+Example code to merge images:
+[image-merge](https://products.aspose.com/imaging/net/merge/png/)
+
+
+## Grayscale
+
