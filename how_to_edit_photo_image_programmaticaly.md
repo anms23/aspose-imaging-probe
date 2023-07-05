@@ -15,18 +15,18 @@ Editing pictures is a frequent task for developers, researchers and students. Au
 
 In this article, we consider how to use the most demanded operations for image editing with Aspose.Imaging C# library:
 
-- [Resize](#resizing-an-image)
-- [Crop](#crop-an-image)
-- [Rotate](#rotate)
-- [Remove background](#remove-background)
-- [Filter](#filter-an-image)
-- [Merge](#merge-images)
-- [Grayscale](#grayscale)
-- [Dither]()
-- Adjust
-- Binarize
-- Cartoonify
-- Drawning images
+- ## [Resize](#resizing-an-image)
+- ## [Crop](#crop-an-image)
+- ## [Rotate](#rotate)
+- ## [Remove background](#remove-background)
+- ## [Filter](#filter-an-image)
+- ## [Merge](#merge-images)
+- ## [Grayscale](#grayscale)
+- ## Dither
+- ## Adjust
+- ## Binarize
+- ## Cartoonify
+- ## Drawning images
 
 Please follow the link to see the table with the list of all supported image formats -> [supported-file-formats](https://docs.aspose.com/imaging/net/supported-file-formats/)
 
@@ -54,6 +54,14 @@ A more detailed description of resize, crop and rotate operations you could find
 ## Remove background
 
 Sometimes you need to remove a background from a photo and leave only human's figures or other objects on a white field. Removing a picture background or editing a photo background are more complicated tasks than the basic image manipulations mentioned above. With Aspose.Imaging library you can effectively remove or change a photo background. The image library could automatically mask background pixels and set them to zero (white color) or another color. Additionally Imaging.Cloud API could be used for improving masking results. The Cloud API is used for detecting objects on a photo and applying detected objects' bounds to the image more precisely.
+
+Original image:
+
+<img src="images/Colored by Faith_small.png" alt="Original" width="500"/>
+
+Image with removed background:
+
+<img src="images/Colored by Faith_small_auto.png" alt="Removed-background" width="500"/>
 
 Please follow the link for the code examples: 
 [removing-background-from-images](https://docs.aspose.com/imaging/net/removing-background-from-images/)
