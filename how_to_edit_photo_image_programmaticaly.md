@@ -88,7 +88,7 @@ Example code to merge images:
 
 ## Grayscale image
 
-Some images looks more interesting in grayscale format rather then in color. The colors on photography may not contains valuable information, but a black&white style could emphasize lights and shadows, attract attention to surfaces details, create more emotional response.
+Some images looks more interesting in grayscale format rather then in color. The colors on photography may not contains valuable information, but a black&white style could emphasize lights and shadows, attract attention to surfaces details, create more emotional response. The `Grayscale` method of Aspose.Imaging convert color image to it grayscale representation.
 
 Grayscaled image example:
 
@@ -99,14 +99,17 @@ C# code example:
 
 ## Dither image
 
-Image dithering is used for adding some noise to pictures. This method could increase image quality after reducing color palette for publishing on the web and creates trilling visual effect.  
+Image dithering is used for adding some noise to pictures. This method could increase image quality after reducing color palette for publishing on the web and creates trilling visual effect. With the Aspose image library you use simple `Threshold` method or more complex `FloydSteinberg` method, which uses nearest neighbors intensity values for dithering.
 
 C# code example:
 [dither-png](https://products.aspose.com/imaging/net/dither/png/)
 
 ## Adjust image
 
+Adjusting image brightness, contrast and gamma are often used operations for image editing before publishing. Pictures may looks pale or different areas of the image could be too darken or too lighten without properly adjusted these parameters. These image defects leads to picture details loss and general effect of a website with such images will be weak. You can perform brightness, contrast or gamma correction by passing appropriate parameter to the image library method. 
 
+C# code examples:
+[adjust-jpeg](https://products.aspose.com/imaging/net/adjust/jpeg/)
 
 ## Binarize image
 
