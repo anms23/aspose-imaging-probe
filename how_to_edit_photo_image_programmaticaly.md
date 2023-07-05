@@ -21,12 +21,12 @@ In this article, we consider how to use the most demanded operations for image e
 - ## [Remove background](#remove-background)
 - ## [Filter](#filter-an-image)
 - ## [Merge](#merge-images)
-- ## [Grayscale](#grayscale)
-- ## Dither
-- ## Adjust
-- ## Binarize
-- ## Cartoonify
-- ## Drawning images
+- ## [Grayscale](#grayscale-image)
+- Dither
+- Adjust
+- Binarize
+- Cartoonify
+- Drawning images
 
 Please follow the link to see the table with the list of all supported image formats -> [supported-file-formats](https://docs.aspose.com/imaging/net/supported-file-formats/)
 
@@ -80,11 +80,20 @@ C# code example for image filtering:
 
 ## Merge images
 
-To combine several images into one image you can use the merge method of the image library. It is possible to merge images by adding them to the resulting image in horizontal or vertical directions. This approach is suitable for creating large images consisting of many repeated small ones.
+To combine several images into one image you can use the merge method of the image library. It is possible to merge images by adding them to the resulting image in horizontal or vertical directions. This approach is suitable for creating large images, like a wallpaper, consisting of many repeated small ones.
 
 Example code to merge images:
 [image-merge](https://products.aspose.com/imaging/net/merge/png/)
 
 
-## Grayscale
+## Grayscale image
+
+Some images looks more interesting in grayscale format rather then in color. The colors on photography may not contains valuable information, but a black&white style could emphasize lights and shadows, attract attention to surfaces details, create more emotional response.
+
+Grayscaled image example:
+
+![Grayscale](images/Grayscale.jpg)
+
+C# code example:
+[grayscale-png](https://products.aspose.com/imaging/net/grayscale/png/)
 
