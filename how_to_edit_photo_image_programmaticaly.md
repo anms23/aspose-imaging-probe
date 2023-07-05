@@ -22,9 +22,9 @@ In this article, we consider how to use the most demanded operations for image e
 - [Filter](#filter-an-image)
 - [Merge](#merge-images)
 - [Grayscale](#grayscale-image)
+- [Binarize](#binarize-image)
 - [Dither](#dither-image)
 - [Adjust](#adjust-imageadj)
-- [Binarize](#binarize-image)
 - [Cartoonify](#cartoonify-image)
 - [Drawning images](#drawning-images)
 
@@ -34,6 +34,7 @@ Please follow the link to see the table with the list of all supported image for
 
 Usually, initial images have different sizes and don't suit our demands. Some images could be in high resolution and very large sizes for publication on a website. Also often we need to create a set of images with different sizes: small, medium and extra large for different views, such are thumbnails for preview or detailed views. The Aspose.Imaging library helps you to create a C# application and do this job automatically. The library already has all the necessary tools to edit image size. You just need to indicate what sizes of images you what to finally have, load initial images to the memory cache, apply the resize method and save the resulting image file to a new location.   
 
+C# code example:
 [how-to-resize-image](./resize_image.md)
 
 
@@ -41,6 +42,7 @@ Usually, initial images have different sizes and don't suit our demands. Some im
 
 Another widely used operation of image editing is image cropping. An image or photo could have unwanted fields on the sides you want to cut off. Also, you may want to crop a dedicated rectangle area of the photo. For example, the interesting area is located on some part of the whole image and you want to cut off only this particular piece. You can execute both types of cropping: crop by shifts and crop by a rectangle by using Aspose.Imaging. In the first case, you indicate the shifts from sides, in the second - the rectangle area to crop.
 
+C# code example:
 [how-to-crop-image](./crop_image.md)
 
 
@@ -97,6 +99,22 @@ Grayscaled image example:
 C# code example:
 [grayscale-png](https://products.aspose.com/imaging/net/grayscale/png/)
 
+
+## Binarize image
+
+Another technique to convert color images to black and white is to binarize them. It means that each pixel of the image will be substituted to value 0 or 1 (white or black color) depended on the indicated threshold. With the image library you can select between fixed threshold, to use average threshold value calculated from neighbor pixels area with Bradley method or automatically choice threshold with Otsu method.
+
+Original image:
+
+<img src="images/sample.jpg" alt="Sample" width="640" height="400"/>
+
+Example of black and image with binarization threshold 100:
+
+<img src="images\BinarizationWithFixedThreshold.jpg" alt="Grayscale" width="640" height="400"/>
+
+C# code example:
+[binarize-png](https://products.aspose.com/imaging/net/binarize/png/)
+
 ## Dither image
 
 Image dithering is used for adding some noise to pictures. This method could increase image quality after reducing color palette for publishing on the web and creates trilling visual effect. With the Aspose image library you use simple `Threshold` method or more complex `FloydSteinberg` method, which uses nearest neighbors intensity values for dithering.
@@ -106,12 +124,10 @@ C# code example:
 
 ## Adjust image
 
-Adjusting image brightness, contrast and gamma are often used operations for image editing before publishing. Pictures may looks pale or different areas of the image could be too darken or too lighten without properly adjusted these parameters. These image defects leads to picture details loss and general effect of a website with such images will be weak. You can perform brightness, contrast or gamma correction by passing appropriate parameter to the image library method. 
+Adjusting image brightness, contrast and gamma are often used operations for image editing before publishing. Pictures may looks pale or different areas of the image could be too darken or too lighten without properly adjusted these parameters. These image defects leads to picture details loss and general effect of a website with such images will be weak. You can perform brightness, contrast or gamma correction by passing appropriate parameter to the image library method.
 
 C# code examples:
 [adjust-jpeg](https://products.aspose.com/imaging/net/adjust/jpeg/)
-
-## Binarize image
 
 
 ## Cartoonify image
