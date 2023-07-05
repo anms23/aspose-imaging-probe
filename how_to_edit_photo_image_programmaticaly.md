@@ -115,12 +115,18 @@ Example of black and image with binarization threshold 100:
 C# code example:
 [binarize-png](https://products.aspose.com/imaging/net/binarize/png/)
 
+
 ## Dither image
 
 Image dithering is used for adding some noise to pictures. This method could increase image quality after reducing color palette for publishing on the web and creates trilling visual effect. With the Aspose image library you use simple `Threshold` method or more complex `FloydSteinberg` method, which uses nearest neighbors intensity values for dithering.
 
+Example of image with `FloydSteinberg` dither method:
+
+<img src="images\DitherImage.jpg" alt="DitherImage" width="640" height="400"/>
+
 C# code example:
 [dither-png](https://products.aspose.com/imaging/net/dither/png/)
+
 
 ## Adjust image
 
