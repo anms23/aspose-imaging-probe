@@ -15,18 +15,18 @@ Editing pictures is a frequent task for developers, researchers and students. Au
 
 In this article, we consider how to use the most demanded operations for image editing with Aspose.Imaging C# library:
 
-- ## [Resize](#resizing-an-image)
-- ## [Crop](#crop-an-image)
-- ## [Rotate](#rotate)
-- ## [Remove background](#remove-background)
-- ## [Filter](#filter-an-image)
-- ## [Merge](#merge-images)
-- ## [Grayscale](#grayscale-image)
-- Dither
-- Adjust
-- Binarize
-- Cartoonify
-- Drawning images
+- [Resize](#resizing-an-image)
+- [Crop](#crop-an-image)
+- [Rotate](#rotate)
+- [Remove background](#remove-background)
+- [Filter](#filter-an-image)
+- [Merge](#merge-images)
+- [Grayscale](#grayscale-image)
+- [Dither](#dither-image)
+- [Adjust](#adjust-imageadj)
+- [Binarize](#binarize-image)
+- [Cartoonify](#cartoonify-image)
+- [Drawning images](#drawning-images)
 
 Please follow the link to see the table with the list of all supported image formats -> [supported-file-formats](https://docs.aspose.com/imaging/net/supported-file-formats/)
 
@@ -97,3 +97,21 @@ Grayscaled image example:
 C# code example:
 [grayscale-png](https://products.aspose.com/imaging/net/grayscale/png/)
 
+## Dither image
+
+Image dithering is used for adding some noise to pictures. This method could increase image quality after reducing color palette for publishing on the web and creates trilling visual effect.  
+
+C# code example:
+[dither-png](https://products.aspose.com/imaging/net/dither/png/)
+
+## Adjust image
+
+
+
+## Binarize image
+
+
+## Cartoonify image
+
+
+## Drawning images
