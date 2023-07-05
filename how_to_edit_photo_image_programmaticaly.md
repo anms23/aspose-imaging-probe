@@ -57,11 +57,11 @@ Sometimes you need to remove a background from a photo and leave only human's fi
 
 Original image:
 
-<img src="images/Colored by Faith_small.png" alt="Original" width="500"/>
+<img src="images/Colored by Faith_small.png" alt="Original" width="500" height="329"/>
 
 Image with removed background:
 
-<img src="images/Colored by Faith_small_auto.png" alt="Removed-background" width="500"/>
+<img src="images/Colored by Faith_small_auto.png" alt="Removed-background" width="500" height="329"/>
 
 Please follow the link for the code examples: 
 [removing-background-from-images](https://docs.aspose.com/imaging/net/removing-background-from-images/)
@@ -92,7 +92,7 @@ Some images looks more interesting in grayscale format rather then in color. The
 
 Grayscaled image example:
 
-![Grayscale](images/Grayscale.jpg)
+<img src="images/Grayscale.jpg" alt="Grayscale" width="400" height="267"/>
 
 C# code example:
 [grayscale-png](https://products.aspose.com/imaging/net/grayscale/png/)
