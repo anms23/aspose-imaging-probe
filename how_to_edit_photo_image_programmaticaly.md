@@ -24,7 +24,7 @@ In this article, we consider how to use the most demanded operations for image e
 - [Grayscale](#grayscale-image)
 - [Binarize](#binarize-image)
 - [Dither](#dither-image)
-- [Adjust](#adjust-imageadj)
+- [Adjust](#adjust-image)
 - [Cartoonify](#cartoonify-image)
 - [Drawning images](#drawning-images)
 
@@ -82,7 +82,7 @@ C# code example for image filtering:
 
 ## Merge images
 
-To combine several images into one image you can use the merge method of the image library. It is possible to merge images by adding them to the resulting image in horizontal or vertical directions. This approach is suitable for creating large images, like a wallpaper, consisting of many repeated small ones.
+To combine several images into one image you can use the merge method of the image library. It is possible to merge images by adding them to the resulting image in horizontal or vertical directions. This approach is suitable for creating large images, like wallpaper, consisting of many repeated small ones.
 
 Example code to merge images:
 [image-merge](https://products.aspose.com/imaging/net/merge/png/)
@@ -90,7 +90,7 @@ Example code to merge images:
 
 ## Grayscale image
 
-Some images looks more interesting in grayscale format rather then in color. The colors on photography may not contains valuable information, but a black&white style could emphasize lights and shadows, attract attention to surfaces details, create more emotional response. The `Grayscale` method of Aspose.Imaging convert color image to it grayscale representation.
+Some images look more interesting in grayscale format rather than in color. The colors in photography may not contain valuable information, but a black&white style could emphasize lights and shadows, attract attention to surface details, and create more emotional responses. The `Grayscale` method of Aspose.Imaging converts color images to it grayscale representation.
 
 Grayscaled image example:
 
@@ -102,7 +102,7 @@ C# code example:
 
 ## Binarize image
 
-Another technique to convert color images to black and white is to binarize them. It means that each pixel of the image will be substituted to value 0 or 1 (white or black color) depended on the indicated threshold. With the image library you can select between fixed threshold, to use average threshold value calculated from neighbor pixels area with Bradley method or automatically choice threshold with Otsu method.
+Another technique to convert color images to black and white is to binarize them. It means that each pixel of the image will be substituted to value 0 or 1 (white or black color) depending on the indicated threshold. With the image library, you can select between fixed thresholds, use the average threshold value calculated from the neighbor pixels area with the Bradley method or automatically choice a threshold with the Otsu method.
 
 Original image:
 
@@ -118,7 +118,7 @@ C# code example:
 
 ## Dither image
 
-Image dithering is used for adding some noise to pictures. This method could increase image quality after reducing color palette for publishing on the web and creates trilling visual effect. With the Aspose image library you use simple `Threshold` method or more complex `FloydSteinberg` method, which uses nearest neighbors intensity values for dithering.
+Image dithering is used for adding some noise to pictures. This method could increase image quality after reducing the color palette for publishing on the web and creating a trilling visual effect. With the Aspose image library, you use the simple `Threshold` method or the more complex `FloydSteinberg` method, which uses nearest neighbors' pixels intensity values for dithering.
 
 Example of image with `FloydSteinberg` dither method:
 
@@ -130,9 +130,10 @@ C# code example:
 
 ## Adjust image
 
-Adjusting image brightness, contrast and gamma are often used operations for image editing before publishing. Pictures may looks pale or different areas of the image could be too darken or too lighten without properly adjusted these parameters. These image defects leads to picture details loss and general effect of a website with such images will be weak. You can perform brightness, contrast or gamma correction by passing appropriate parameter to the image library method.
+Adjusting image brightness, contrast and gamma are often used operations for image editing before publishing. Pictures may look pale or different areas of the image could be too darkened or too lighten without properly adjusting these parameters. These image defects lead to picture details loss and the general effect of a website with such images will be weak. You can perform brightness, contrast or gamma correction by passing appropriate parameters to the image library method.
 
 C# code examples:
+
 [adjust-jpeg](https://products.aspose.com/imaging/net/adjust/jpeg/)
 
 
