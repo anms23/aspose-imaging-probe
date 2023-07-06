@@ -27,6 +27,7 @@ In this article, we consider how to use the most demanded operations for image e
 - [Adjust](#adjust-image)
 - [Cartoonify](#cartoonify-image)
 - [Drawing images](#drawing-images)
+- [Online editor](#how-to-edit-your-photo-or-image-online)
 
 Please follow the link to see the table with the list of all supported image formats -> [supported-file-formats](https://docs.aspose.com/imaging/net/supported-file-formats/)
 
@@ -35,7 +36,7 @@ Please follow the link to see the table with the list of all supported image for
 Usually, initial images have different sizes and don't suit our demands. Some images could be in high resolution and very large sizes for publication on a website. Also often we need to create a set of images with different sizes: small, medium and extra large for different views, such are thumbnails for preview or detailed views. The Aspose.Imaging library helps you to create a C# application and do this job automatically. The library already has all the necessary tools to edit image size. You just need to indicate what sizes of images you what to finally have, load initial images to the memory cache, apply the resize method and save the resulting image file to a new location.   
 
 C# code example:
-[how-to-resize-image](./resize_image.md)
+[howto-resize-image](./howto_resize_image.md)
 
 
 ## Crop an image
@@ -43,12 +44,15 @@ C# code example:
 Another widely used operation of image editing is image cropping. An image or photo could have unwanted fields on the sides you want to cut off. Also, you may want to crop a dedicated rectangle area of the photo. For example, the interesting area is located on some part of the whole image and you want to cut off only this particular piece. You can execute both types of cropping: crop by shifts and crop by a rectangle by using Aspose.Imaging. In the first case, you indicate the shifts from sides, in the second - the rectangle area to crop.
 
 C# code example:
-[how-to-crop-image](./crop_image.md)
+[howto-crop-image](./howto_crop_image.md)
 
 
 ## Rotate
 
 Original photos may have the wrong orientation due to a photographer had took photo shots with various camera rotations and embedded auto-rotation does not work properly. The information about picture orientation is usually written down in the image EXIF metadata by camera software and used for rotation. You can rotate images programmable by 90/180/270-degree angles or flip photos vertically or horizontally to fix this issue. In some cases, the photos were made with a mistake of horizon slop, the horizon line has not strongly horizontal. The program library gives you the possibility to rotate an image on a specific angle as well.
+
+C# code example:
+[howto-rotate-image](./howto_rotate_image.md)
 
 A more detailed description of resize, crop and rotate operations you could find in the official documentation [link](https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/).
 
@@ -154,3 +158,9 @@ You can not only edit existing images, but you can create new ones and draw vari
 
 C# code examples:
 [drawing-images](https://docs.aspose.com/imaging/net/drawing-images/)
+
+
+## How to edit your photo or image online
+
+Finally, if you would like to try a demo you could edit your pictures online. 
+

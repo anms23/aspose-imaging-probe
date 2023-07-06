@@ -1,4 +1,4 @@
-# Resizing an image
+# How to resize image
 
 To make an image resize, we are using the method `load` of the class [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image/) to load an image. Then we [resize](https://reference.aspose.com/imaging/net/aspose.imaging/image/resize/) the image to a new size by specifying desired height and width `300x300` in pixels and save the result to a new file. 
 

@@ -1,4 +1,4 @@
-# Crop an image
+# How to crop image
 
 You can select between two types of possible cropping: either indicate new image boundaries by shifts from the sides of the image, i.e. 10 px for left, right top and bottom shifts or create a rectangle with the desired size and use it for image cropping. 
 
