@@ -84,7 +84,7 @@ C# code example for image filtering:
 
 To combine several images into one image you can use the merge method of the image library. It is possible to merge images by adding them to the resulting image in horizontal or vertical directions. This approach is suitable for creating large images, like wallpaper, consisting of many repeated small ones.
 
-Example code to merge images:
+Example C# code to merge images:
 [image-merge](https://products.aspose.com/imaging/net/merge/png/)
 
 
@@ -133,15 +133,24 @@ C# code example:
 Adjusting image brightness, contrast and gamma are often used operations for image editing before publishing. Pictures may look pale or different areas of the image could be too darkened or too lighten without properly adjusting these parameters. These image defects lead to picture details loss and the general effect of a website with such images will be weak. You can perform brightness, contrast or gamma correction by passing appropriate parameters to the image library method.
 
 C# code examples:
-
 [adjust-jpeg](https://products.aspose.com/imaging/net/adjust/jpeg/)
+
 
 ## Cartoonify image
 
+Also, you can combine several image editing techniques and create new sophisticated visual effects, for example, the effect of a cartoon image. Cartoon-style images will decorate your publication and attract more users. The example below sequentially uses a list of methods such as `AdjustBrightness`, `DetectOutlines`, `DrawImage`, `BinarizeFixed`, `Filter` and others applied to the original loaded images.
+
+Example of image with `Cartoonify` filter applied:
+
+<img src="images\cartoonify.jpg" alt="CartoonifyImage" width="640" height="400"/>
+
+C# code example:
+[cartoonify-image](https://products.aspose.com/imaging/net/cartoonify/png/)
 
 
 ## Drawing images
 
-You can not only edit existing images, but you can create new ones and draw various shapes such as Lines, Ellipses, Rectangles, Arcs and Bezier shapes. First, you need to create an image surface with selected background color, then select a tool Pen to draw with specific brush, color and width.  
+You can not only edit existing images, but you can create new ones and draw various shapes such as Lines, Ellipses, Rectangles, Arcs and Bezier shapes. First, you need to create an image surface with selected background color, then select a tool Pen to draw with a specific brush, color and width.
 
+C# code examples:
 [drawing-images](https://docs.aspose.com/imaging/net/drawing-images/)
