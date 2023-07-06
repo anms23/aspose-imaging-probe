@@ -26,7 +26,7 @@ In this article, we consider how to use the most demanded operations for image e
 - [Dither](#dither-image)
 - [Adjust](#adjust-image)
 - [Cartoonify](#cartoonify-image)
-- [Drawning images](#drawning-images)
+- [Drawing images](#drawing-images)
 
 Please follow the link to see the table with the list of all supported image formats -> [supported-file-formats](https://docs.aspose.com/imaging/net/supported-file-formats/)
 
@@ -120,7 +120,7 @@ C# code example:
 
 Image dithering is used for adding some noise to pictures. This method could increase image quality after reducing the color palette for publishing on the web and creating a trilling visual effect. With the Aspose image library, you use the simple `Threshold` method or the more complex `FloydSteinberg` method, which uses nearest neighbors' pixels intensity values for dithering.
 
-Example of image with `FloydSteinberg` dither method:
+Example of image with `FloydSteinberg` dither method applied:
 
 <img src="images\DitherImage.jpg" alt="DitherImage" width="640" height="400"/>
 
@@ -136,8 +136,12 @@ C# code examples:
 
 [adjust-jpeg](https://products.aspose.com/imaging/net/adjust/jpeg/)
 
-
 ## Cartoonify image
 
 
-## Drawning images
+
+## Drawing images
+
+You can not only edit existing images, but you can create new ones and draw various shapes such as Lines, Ellipses, Rectangles, Arcs and Bezier shapes. First, you need to create an image surface with selected background color, then select a tool Pen to draw with specific brush, color and width.  
+
+[drawing-images](https://docs.aspose.com/imaging/net/drawing-images/)
