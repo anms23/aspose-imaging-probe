@@ -69,8 +69,8 @@ Image with removed background:
 
 <img src="images/Colored by Faith_small_auto.png" alt="Removed-background" width="500" height="329"/>
 
-Please follow the link for the code examples: 
-[removing-background-from-images](https://docs.aspose.com/imaging/net/removing-background-from-images/)
+C# code example:
+[howto-remove-background](./howto_remove_background.md)
 
 
 ## Filter an image
