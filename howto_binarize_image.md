@@ -6,11 +6,8 @@ With a simple fixed binarisation method, you need to set only one parameter - a 
 
 Please see below links to the binarization methods descriptions:
 
-[BinarizeFixed]
-(https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/binarizefixed/)
+[BinarizeFixed](https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/binarizefixed/)
 
-[BinarizeBradley]
-(https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/binarizebradley/)
+[BinarizeBradley](https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/binarizebradley/)
 
-[BinarizeOtsu]
-(https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/binarizeotsu/)
+[BinarizeOtsu](https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/binarizeotsu/)

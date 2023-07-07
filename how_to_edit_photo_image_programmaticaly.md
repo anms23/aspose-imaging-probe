@@ -124,8 +124,8 @@ Example of image with `FloydSteinberg` dither method applied:
 
 <img src="images\DitherImage.jpg" alt="DitherImage" width="640" height="400"/>
 
-C# code example:
-[dither-png](https://products.aspose.com/imaging/net/dither/png/)
+C# code example to dither image:
+[howto-dither-image](./howto_dither_image.md)
 
 
 ## Adjust image
