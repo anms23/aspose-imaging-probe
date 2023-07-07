@@ -96,13 +96,13 @@ Grayscaled image example:
 
 <img src="images/Grayscale.jpg" alt="Grayscale" width="400" height="267"/>
 
-C# code example:
+C# code example to convert image to grayscale:
 [howto-grayscale-image](./howto_grayscale_image.md)
 
 
 ## Binarize image
 
-Another technique to convert color images to black and white is to binarize them. It means that each pixel of the image will be substituted to value 0 or 1 (white or black color) depending on the indicated threshold. With the image library, you can select between fixed thresholds, use the average threshold value calculated from the neighbor pixels area with the `Bradley` method or automatically choice a threshold with the `Otsu` method.
+Another technique to convert color images to black and white is to binarize them. It means that each pixel of the image will be substituted to value 0 or 1 (white or black color) depending on the indicated threshold. The binarizations useful for printing pictures in one black color without tint graduation. With the image library, you can select between fixed thresholds, use the average threshold value calculated from the neighbor pixels area with the `Bradley` method or automatically choice a threshold with the `Otsu` method.
 
 Original image:
 
@@ -112,8 +112,8 @@ Example of black and image with binarization threshold 100:
 
 <img src="images\BinarizationWithFixedThreshold.jpg" alt="Grayscale" width="640" height="400"/>
 
-C# code example:
-[binarize-png](https://products.aspose.com/imaging/net/binarize/png/)
+C# code example to binarize image:
+[howto-binarize-image](./howto_binarize_image.md)
 
 
 ## Dither image
@@ -159,4 +159,3 @@ C# code examples:
 ## How to edit your photo or image online
 
 Finally, if you would like to try a demo you can edit your pictures online.
-
