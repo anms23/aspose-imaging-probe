@@ -97,7 +97,7 @@ Grayscaled image example:
 <img src="images/Grayscale.jpg" alt="Grayscale" width="400" height="267"/>
 
 C# code example:
-[grayscale-png](https://products.aspose.com/imaging/net/grayscale/png/)
+[howto-grayscale-image](./howto_grayscale_image.md)
 
 
 ## Binarize image
