@@ -133,7 +133,7 @@ C# code example to dither image:
 Adjusting image brightness, contrast and gamma are often used operations for image editing before publishing. Pictures may look pale or different areas of the image could be too darkened or too lighten without properly adjusting these parameters. These image defects lead to picture details loss and the general effect of a website with such images will be weak. You can perform brightness, contrast or gamma correction by passing appropriate parameters to the image library method.
 
 C# code examples:
-[adjust-jpeg](https://products.aspose.com/imaging/net/adjust/jpeg/)
+[howto-adjust-image](./howto_adjust_image.md)
 
 
 ## Cartoonify image
