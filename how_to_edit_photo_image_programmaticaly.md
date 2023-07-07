@@ -77,7 +77,7 @@ C# code example:
 Applying filters to images is a very popular operation of image quality enhancement. You may need to make an image more sharp or on the contrary blur them. You can quickly apply several filters using the C# program. Aspose.Imaging proposes a list of available filters for smoothing images with noise reduction, but preserving objects’ edges, changing brightness and contrast for reducing overexposure of photography or lightening too dark parts, and emphasizing details.
 
 C# code example for image filtering:
-[filter-image-example](howto_filter_image.md)
+[howto-filter-image](howto_filter_image.md)
 
 
 ## Merge images
