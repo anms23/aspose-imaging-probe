@@ -138,14 +138,14 @@ C# code examples:
 
 ## Cartoonify image
 
-Also, you can combine several image editing techniques and create new sophisticated visual effects, for example, the effect of a cartoon image. Cartoon-style images will decorate your publication and attract more users. The example below sequentially uses a list of methods such as `AdjustBrightness`, `DetectOutlines`, `DrawImage`, `BinarizeFixed`, `Filter` and others applied to the original loaded images.
+Also, you can combine several image editing techniques and create new sophisticated visual effects, for example, the effect of a cartoon image. Cartoon-style images will decorate your publication and attract more users. The example below sequentially uses a list of methods such as `AdjustBrightness`, `BinarizeFixed`, `Filter`, `ReplaceColor`, `ApplyMask` and others applied to the original loaded images.
 
 Example of image with `Cartoonify` filter applied:
 
 <img src="images\cartoonify.jpg" alt="CartoonifyImage" width="640" height="400"/>
 
 C# code example:
-[cartoonify-image](https://products.aspose.com/imaging/net/cartoonify/png/)
+[howto-cartoonify-image](./howto_cartoonify_image.md)
 
 
 ## Drawing images
