@@ -1,6 +1,6 @@
 ---
 title: How to edit your photo or image programmatically
-description: Library for image editing. Photo editing automation. Image manipulation by NET (C#) program. Removing photo background.
+description: Library for image editing. Photo editing automation. Image manipulation by NET (C#) program. Removing photo background. Online photo editor.
 keywords: [edit a photo, editing of pictures, edit an image, photo background editor, resizing an image, resizing photos, image crop, filter photo]
 ---
 
@@ -102,7 +102,7 @@ C# code example to convert image to grayscale:
 
 ## Binarize image
 
-Another technique to convert color images to black and white is to binarize them. It means that each pixel of the image will be substituted to value 0 or 1 (white or black color) depending on the indicated threshold. The binarizations useful for printing pictures in one black color without tint graduation. With the image library, you can select between fixed thresholds, use the average threshold value calculated from the neighbor pixels area with the `Bradley` method or automatically choice a threshold with the `Otsu` method.
+Another technique to convert color images to black and white is to binarize them. It means that each pixel of the image will be substituted to value 0 or 1 (white or black color) depending on the indicated threshold. The binarization useful for printing pictures in one black color without tint graduation. With the image library, you can select between fixed thresholds, use the average threshold value calculated from the neighbor pixels area with the `Bradley` method or automatically choice a threshold with the `Otsu` method.
 
 Original image:
 
@@ -162,3 +162,5 @@ Finally, if you would like to try a demo you can edit your pictures online. With
 
 
 ## Conclusion
+
+Aspose.Imaging program library helps you to edit images and photos and facilitates the development of graphic manipulating applications and services. The image library provides you ready to use program methods to process images in your own way. Online images editor with photo filter is available at your convenience where you can try the most popular image editing operations and save the results in many image formats.
