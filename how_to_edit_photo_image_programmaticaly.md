@@ -1,7 +1,7 @@
 ---
 title: How to edit your photo or image programmatically
 description: Library for image editing. Photo editing automation. Image manipulation by NET (C#) program. Removing photo background. Online photo editor.
-keywords: [edit a photo, editing of pictures, edit an image, photo background editor, resizing an image, resizing photos, image crop, filter photo]
+keywords: [edit a photo, editing of pictures, edit an image, photo background editor, photo background change, resizing an image, resizing photos, photo sizing, picture resizer, image crop, crop photo, filter photo, online photo editor, online image editor, photo editing app, free photo editor]
 ---
 
 # How to edit your photo or image programmatically
@@ -32,7 +32,7 @@ Please follow the link to see the table with the list of all supported image for
 
 ## Resizing an image
 
-Usually, initial images have different sizes and don’t suit our demands. It's impossible to publish on a website some images because of its high resolution or very large sizes. Also often we need to create a set of images with different sizes: small, medium and extra large for different views, such are thumbnails for preview or detailed views. The Aspose.Imaging library helps you to create a C# application and do this job automatically. The library already has all the necessary tools to edit image size. You just need to indicate what sizes of images you want to finally have, load initial images to the memory cache, apply the resize method and save the resulting image file to a new location.
+Usually, initial images have different sizes and don’t suit our demands. It's impossible to publish on a website some images because of its high resolution or very large sizes. Also often we need to create a set of images with different sizes: small, medium and extra large for different views, such are thumbnails for preview or detailed views. The Aspose.Imaging library helps you to create a C# application and do this picture resizer job automatically. The library already has all the necessary tools to edit image size. You just need to indicate what photo sizing you want to finally have, load initial images to the memory cache, apply the resize method and save the resulting image file to a new location.
 
 C# code example to resize an image:
 [howto-resize-image](howto_resize_image.md)
@@ -40,7 +40,7 @@ C# code example to resize an image:
 
 ## Crop an image
 
-Another widely used operation of image editing is image cropping. If an image or photo has unwanted fields on the sides you need to cut it off. Also, you may want to crop a dedicated rectangle area of the photo. For example, the interesting area is located on some part of the whole image and you want to cut off only this particular piece. You can execute both types of cropping: crop by shifts and crop by a rectangle by using Aspose.Imaging. In the first case, you indicate the shifts from sides, in the second - the rectangle area to crop.
+Another widely used operation of image editing is image cropping. If an image or photo has unwanted fields on the sides you need to cut it off. Also, you may want to crop a dedicated rectangle area of the photo. For example, the interesting area is located on some part of the whole image and you want to cut off only this particular piece. You can execute both types of cropping: crop by shifts and crop by a rectangle by using Aspose.Imaging. In the first case, you indicate the shifts from sides, in the second - the rectangle area to crop photo.
 
 C# code example to crop an image:
 [howto-crop-image](howto_crop_image.md)
@@ -58,7 +58,7 @@ The more detailed description of resize, crop and rotate operations you can find
 
 ## Remove background
 
-Sometimes you need to remove a background from a photo and leave only human’s figures or other objects on a white field. Removing a picture background or editing a photo background are more complicated tasks than the basic image manipulations mentioned above. With Aspose.Imaging library you can effectively remove or change a photo background. The image library can automatically mask background pixels and set them to zero (white color) or another color. Additionally Imaging.Cloud API can be used for improving masking results. The Cloud API is used for detecting objects on a photo and applying detected objects’ bounds to the image more precisely.
+Sometimes you need to remove a background from a photo and leave only human’s figures or other objects on a white field. Removing a picture background or photo background change are more complicated tasks than the basic image manipulations mentioned above. With Aspose.Imaging library you can effectively remove or change a photo background. The image library can automatically mask background pixels and set them to zero (white color) or another color. Additionally Imaging.Cloud API can be used for improving masking results. The Cloud API is used for detecting objects on a photo and applying detected objects’ bounds to the image more precisely.
 
 Original image:
 
@@ -158,9 +158,9 @@ C# code examples:
 
 ## How to edit your photo or image online
 
-Finally, if you would like to try a demo you can edit your pictures online. With an online image editor, it is possible to make all common operations with your images. Open [online-image-editor](https://products.aspose.app/imaging/image-editor) in your browser and upload your image file from a local PC by drag-and-drop or upload an image from your Google or DropBox account into an active image editor area in your browser window. In the online editor, you can crop the image by selecting an arbitrary rectangle area or by selecting an area with a predefined sides ratio. Also, you can resize an image and rotate or flip it. There are several filters available for online photo editing, including adjusting Brightness and Contrast, Gamma corrections, Grayscale, Binarize, Blur, Sharpen and Cartoon filters: [online-photo-filter](https://products.aspose.app/imaging/photo-filter). After editing the image and applying filters you can save the results using 20 available different image formats.
+Finally, if you would like to try a demo you can edit your pictures online. With an online image editor, it is possible to make all common operations with your images. Open [Online image editor](https://products.aspose.app/imaging/image-editor) in your browser and upload your image file from a local PC by drag-and-drop or upload an image from your Google or DropBox account into an active image editor area in your browser window. In the online editor, you can crop the image by selecting an arbitrary rectangle area or by selecting an area with a predefined sides ratio. Also, you can resize an image and rotate or flip it. There are dozen of filters available for online photo editing, including adjusting Brightness and Contrast, Gamma corrections, Grayscale, Binarize, Blur, Sharpen and Cartoon filters: [Online photo editor](https://products.aspose.app/imaging/photo-filter). After editing the image and applying filters you can save the results using 20 available different image formats.
 
 
 ## Conclusion
 
-Aspose.Imaging program library helps you to edit images and photos and facilitates the development of graphic manipulating applications and services. The image library provides you ready to use program methods to process images in your own way. Online images editor with photo filter is available at your convenience where you can try the most popular image editing operations and save the results in many image formats.
+Aspose.Imaging program library helps you to edit images and photos and facilitates the development of graphic manipulating applications and services. The image library provides you ready to use program methods to process images in your own way. Free online photo and images editor with photo filter is available at your convenience where you can try the most popular image editing operations and save the results in many image formats.
