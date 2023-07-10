@@ -153,7 +153,7 @@ C# code example:
 You can not only edit existing images but create new ones and draw various shapes such as Lines, Ellipses, Rectangles, Arcs and Bezier shapes. First, you need to create an image surface with selected background color, then select a tool Pen to draw with a specific brush, color and width.
 
 C# code examples:
-[drawing-images](https://docs.aspose.com/imaging/net/drawing-images/)
+[howto-drawing-images](./howto_draw_image.md)
 
 
 ## How to edit your photo or image online
