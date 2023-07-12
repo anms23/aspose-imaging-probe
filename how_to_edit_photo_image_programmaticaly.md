@@ -28,7 +28,7 @@ In this article, we consider how to use the most demanded operations for image e
 - [Drawing images](#drawing-images)
 - [Online editor](#how-to-edit-your-photo-or-image-online)
 
-Please follow the link to see the table with the list of all supported image formats -> [supported-file-formats](https://docs.aspose.com/imaging/net/supported-file-formats/)
+Please follow the [link](https://docs.aspose.com/imaging/net/supported-file-formats/) to see the table with the list of all supported image formats.
 
 ## Resizing an image
 

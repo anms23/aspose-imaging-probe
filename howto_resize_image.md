@@ -6,7 +6,7 @@ keywords: [resize an image, resizing an image, resizing photos, photo sizing, pi
 
 # How to resize an image
 
-For resizing an image, we are using the method `load` of the class [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image/) to load an image. Then we [resize](https://reference.aspose.com/imaging/net/aspose.imaging/image/resize/) the image to a new size by specifying desired height and width `300x300` in pixels and save the result to a new file. 
+For resizing an image, we are using the method [Load](https://reference.aspose.com/imaging/net/aspose.imaging/image/load/) of the class [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image/) to load an image into cache memory. Then we [resize](https://reference.aspose.com/imaging/net/aspose.imaging/image/resize/) the image to a new size by specifying desired height and width `300x300` in pixels and save the result to a new file. 
 
 Example C# code:
 
@@ -16,5 +16,4 @@ Additionally, you could make photo sizing proportionally the picture width or he
 
 {% gist aspose-com-gists/7ee37a401e37790396ad9f4cde87d446 resize-image-with-resize-type-enumeration.cs %}
 
-There are several Resize types available for resizing photos. Please see the link to the table which describes a resize type possible parameters -> [resizing-images--resizetype-enumeration](
-https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/#resizing-images--resizetype-enumeration)
+There are several Resize types available for resizing photos. Please see the [link](https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/#resizing-images--resizetype-enumeration) to the table which describes a resize type possible parameters.

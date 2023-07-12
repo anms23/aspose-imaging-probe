@@ -10,5 +10,4 @@ In the example below, to carefully remove background, we use the class `AutoMask
 
 {% gist aspose-com-gists/cd4fed97fcdfa3055fbffc65e5298664 graph-cut-feathering.cs %}
 
-Please follow the link for more code examples: 
-[removing-background-from-images](https://docs.aspose.com/imaging/net/removing-background-from-images/)
+For a more detailed description with examples of how to remove background please follow the documentation [link](https://docs.aspose.com/imaging/net/removing-background-from-images/).
