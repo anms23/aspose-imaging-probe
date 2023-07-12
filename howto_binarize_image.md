@@ -1,6 +1,12 @@
+---
+title: How to binarize an image
+description: Library for image editing. Photo editing automation. Image manipulation by NET (C#) program. Binarize an image.
+keywords: [binarize an image, binarisation method, grayscaling method, method Bradly, Otsu method]
+---
+
 # How to binarize an image
 
-With a simple fixed binarisation method, you need to set only one parameter - a threshold from 0 to 255. All pixels of the image that have an intensity greater than the indicated threshold will be assigned to value 255 (black color), or 0 (white color) otherwise. You can use a more precise grayscaling method `Bradly` to improve binarization quality. This method calculates the threshold adaptively based on the average intensity estimation of the surrounding area with size `s x s`. In this case, the resulting picture will have more smooth edges. Or you can use `Otsu` method with automatic thresholding:   
+To binarize an image with a simple fixed binarisation method, you need to set only one parameter - a threshold from 0 to 255. All pixels of the image that have an intensity greater than the indicated threshold will be assigned to value 255 (black color), or 0 (white color) otherwise. You can use a more precise grayscaling method `Bradly` to improve binarization quality. This method calculates the threshold adaptively based on the average intensity estimation of the surrounding area with size `s x s`. In this case, the resulting picture will have more smooth edges. Or you can use `Otsu` method with automatic thresholding:   
 
 {% gist aspose-com-gists/71c0516ed0eaff60994a716cfb062a6a binarize-images.cs %}
 
