@@ -6,7 +6,7 @@ keywords: [rotate an image, rotating image]
 
 # How to rotate an image
 
-The first type of rotating image is a rotation to a fixed angle of 90/180/270-degree with or without a flip. You just need to load your image and apply the `RotateFlip` method with a rotate type parameter. We use the type `Rotate270FlipNone` in this example:
+The first type of rotating image is a rotation to a fixed angle of 90/180/270-degree with or without a flip. You just need to load your image and apply the [RotateFlip](https://reference.aspose.com/imaging/net/aspose.imaging/image/rotateflip/) method with a rotate type parameter. We use the type `Rotate270FlipNone` in this example:
 
 {% gist aspose-com-gists/7ee37a401e37790396ad9f4cde87d446 rotate-image.cs %}
 

@@ -11,13 +11,13 @@ You can select between two types of possible cropping: either indicate new image
 
 ## Crop by shifts
 
-The example below makes an image crop by shifts on 10px from each image side:
+The example below makes an image [crop](https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/crop/#rasterimagecrop-method-2-of-2) by shifts on 10px from each image side:
 
 {% gist aspose-com-gists/7ee37a401e37790396ad9f4cde87d446 cropping-by-shifts.cs %}
 
 
 ## Crop by rectangle
 
-In this example, we create a square with a side length of 20 px and then crop photo to this area from the original picture.
+In this example, we create a square with a side length of 20 px and then [crop](https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/crop/#rasterimagecrop-method-1-of-2) photo to this area from the original picture.
 
 {% gist aspose-com-gists/7ee37a401e37790396ad9f4cde87d446 cropping-by-rectangle.cs %}
