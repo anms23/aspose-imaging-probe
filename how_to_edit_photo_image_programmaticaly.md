@@ -38,7 +38,8 @@ In this article, we consider how to use the most demanded operations for image e
 - [Online editor](#how-to-edit-your-photo-or-image-online)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Please follow the [link](https://docs.aspose.com/imaging/net/supported-file-formats/) to see the table with the list of all supported image formats.
+Please follow the link to see the table with the [list of all supported image formats](https://docs.aspose.com/imaging/net/supported-file-formats/).
+
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resizing an image
 
@@ -73,7 +74,7 @@ C# code example to rotate an image:
 [howto-rotate-image](howto_rotate_image.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-The more detailed description of resize, crop and rotate operations you can find in the official documentation [link](https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/).
+The more detailed description of resize, crop and rotate operations you can find in the [Aspose.Imaging official documentation](https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/).
 
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remove background

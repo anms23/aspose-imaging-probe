@@ -10,4 +10,4 @@ With Aspose.Imaging you can use several methods to draw graphics primitives such
 
 {% gist aspose-com-gists/ebaa56878c36388b3fcab68c7a5adb66 drawing-lines.cs %}
 
-The more detailed description of drawing lines, ellipses, rectangles, arcs, Bezier curves and text strings you can find in the official documentation [link](https://docs.aspose.com/imaging/net/drawing-images/).
+The more detailed description of drawing lines, ellipses, rectangles, arcs, Bezier curves and text strings you can find in the [Aspose drawing images documentation](https://docs.aspose.com/imaging/net/drawing-images/).

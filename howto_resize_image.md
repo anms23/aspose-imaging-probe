@@ -16,4 +16,4 @@ Additionally, you could make photo sizing proportionally the picture width or he
 
 {% gist aspose-com-gists/7ee37a401e37790396ad9f4cde87d446 resize-image-with-resize-type-enumeration.cs %}
 
-There are several Resize types available for resizing photos. Please see the [link](https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/#resizing-images--resizetype-enumeration) to the table which describes a resize type possible parameters.
+There are several Resize types available for resizing photos. Please see the link to the table which describes the [resize type parameters](https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/#resizing-images--resizetype-enumeration).
