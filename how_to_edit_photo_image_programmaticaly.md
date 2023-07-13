@@ -6,7 +6,7 @@ keywords: [edit a photo, editing of pictures, edit an image, photo background ed
 
 # How to edit your photo or image programmatically
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intro
+## Intro
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,7 +41,7 @@ In this article, we consider how to use the most demanded operations for image e
 Please follow the link to see the table with the [list of all supported image formats](https://docs.aspose.com/imaging/net/supported-file-formats/).
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resizing an image
+## Resizing an image
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,7 +52,7 @@ C# code example to resize an image:
 [howto-resize-image](howto_resize_image.md)
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Crop an image
+## Crop an image
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,7 +63,7 @@ C# code example to crop an image:
 [howto-crop-image](howto_crop_image.md)
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rotate
+## Rotate
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -77,7 +77,7 @@ C# code example to rotate an image:
 The more detailed description of resize, crop and rotate operations you can find in the [Aspose.Imaging official documentation](https://docs.aspose.com/imaging/net/crop-rotate-and-resize-images/).
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remove background
+## Remove background
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,7 +96,7 @@ C# code example for removing image background:
 [howto-remove-background](howto_remove_background.md)
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Filter an image
+## Filter an image
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -107,7 +107,7 @@ C# code example for image filtering:
 [howto-filter-image](howto_filter_image.md)
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Merge images
+## Merge images
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -118,7 +118,7 @@ Example C# code to merge images:
 [howto-merge-images](./howto_merge_images.md)
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grayscale image
+## Grayscale image
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -133,7 +133,7 @@ C# code example to convert image to grayscale:
 [howto-grayscale-image](./howto_grayscale_image.md)
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Binarize image
+## Binarize image
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -152,7 +152,7 @@ C# code example to binarize image:
 [howto-binarize-image](./howto_binarize_image.md)
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dither image
+## Dither image
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -167,7 +167,7 @@ C# code example to dither image:
 [howto-dither-image](./howto_dither_image.md)
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adjust image
+## Adjust image
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -178,7 +178,7 @@ C# code examples:
 [howto-adjust-image](./howto_adjust_image.md)
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cartoonify image
+## Cartoonify image
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -193,7 +193,7 @@ C# code example:
 [howto-cartoonify-image](./howto_cartoonify_image.md)
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drawing images
+## Drawing images
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -204,7 +204,7 @@ C# code examples:
 [howto-drawing-images](./howto_draw_image.md)
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to edit your photo or image online
+## How to edit your photo or image online
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -212,7 +212,7 @@ Finally, if you want to try a demo you can edit your pictures online. With an on
 </p>
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conclusion
+## Conclusion
 
 <p align='justify'>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
