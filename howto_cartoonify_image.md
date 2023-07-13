@@ -6,6 +6,9 @@ keywords: [cartoonify an image, cartoon style, convolution filter, select outlin
 
 # How to cartoonify an image with Aspose.Imaging program library
 
-To convert an image to a cartoon style we will use various image editing methods. Detecting areas with similar colors is done by applying a convolution filter to blur the image with [Filter](https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/filter/) method, selecting outlines, binarize outlines with threshold 30 using [BinarizeFixed](https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/binarizefixed/) method, and masking the image with [ApplyMask](https://reference.aspose.com/imaging/net/aspose.imaging.masking/imagemasking/applymask/) method:
+<p align='justify'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+To convert an image to a cartoon style we will use various image editing methods. Detecting areas with similar colors is done by applying a convolution filter to blur the image with <a href="https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/filter/">Filter method</a>, selecting outlines, binarize outlines with threshold 30 using <a href="https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/binarizefixed/">BinarizeFixed method</a>, and masking the image with <a href="https://reference.aspose.com/imaging/net/aspose.imaging.masking/imagemasking/applymask/">ApplyMask method</a>:
+</p>
 
 {% gist aspose-com-gists/06ef86978a9c043ccf04b5c6fd292b4c cartoonify-images.cs %}
