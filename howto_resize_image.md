@@ -1,10 +1,10 @@
 ---
-title: How to resize image
-description: Library for image editing. Photo editing automation. Image manipulation by NET (C#) program.
+title: How to resize an image with Aspose.Imaging program library
+description: Resize an image. Change photos height and width. Sizing photos proportionally.
 keywords: [resize an image, resizing an image, resizing photos, photo sizing, picture resizer]
 ---
 
-# How to resize an image
+# How to resize an image with Aspose.Imaging program library
 
 For resizing an image, we are using the method [Load](https://reference.aspose.com/imaging/net/aspose.imaging/image/load/) of the class [Image](https://reference.aspose.com/imaging/net/aspose.imaging/image/) to load an image into cache memory. Then we [resize](https://reference.aspose.com/imaging/net/aspose.imaging/image/resize/) the image to a new size by specifying desired height and width `300x300` in pixels and save the result to a new file. 
 

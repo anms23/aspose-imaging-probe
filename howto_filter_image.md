@@ -1,10 +1,10 @@
 ---
-title: How to filter an image
-description: Library for image editing. Photo editing automation. Image manipulation by NET (C#) program. Filter an image.
+title: How to filter an image with Aspose.Imaging program library
+description: Filter an image. Apply Rectangular, Sharpen, Motion, Smoothing, Blur, and Median filters.
 keywords: [edit a photo, edit an image, filter photo, rectangle filter, sharpen filter, Gauss blur]
 ---
 
-# How to filter an image
+# How to filter an image with Aspose.Imaging program library
 
 You can select different filter types: `SmallRectangular`, `BigRectangular`, `Sharpen`, `MotionWiener`, `BilateralSmoothing`, `GaussBlur`, `GaussWiener` and `Median` to edit a photo or image. The Rectangle filters create the effect of putting a special glass before a camera through which we can see the picture with different filtered views. To filter photo with a Rectangle filter just set the rectangle dimensions and then apply them to your image by using [Filter](https://reference.aspose.com/imaging/net/aspose.imaging/rasterimage/filter/) method with two options. The first option is a Rectangle object and the second is filter type [options](https://reference.aspose.com/imaging/net/aspose.imaging.imagefilters.filteroptions/). If you would like to apply a filter for a vector image, you need to rasterize it before:
 

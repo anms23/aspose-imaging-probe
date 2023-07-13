@@ -1,10 +1,10 @@
 ---
-title: How to crop an image
-description: Library for image editing. Photo editing automation. Image manipulation by NET (C#) program. Crop an image.
+title: How to crop an image with Aspose.Imaging program library
+description: Crop an image. Select rectangle area for cropping. Crop photo by shifts.
 keywords: [crop an image, image crop, crop photo, image cropping]
 ---
 
-# How to crop an image
+# How to crop an image with Aspose.Imaging program library
 
 You can select between two types of possible cropping: either indicate new image boundaries by shifts from the sides of the image, i.e. 10 px for left, right top and bottom shifts or create a rectangle with the desired size and use it for image cropping. 
 

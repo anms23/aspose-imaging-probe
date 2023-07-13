@@ -1,10 +1,10 @@
 ---
-title: How to rotate an image
-description: Library for image editing. Photo editing automation. Image manipulation by NET (C#) program. Rotate an image.
+title: How to rotate an image with Aspose.Imaging program library
+description: Rotate an image to a fixed angle. Flip images vertically or horizontally. Rotate photos to a selected angle.
 keywords: [rotate an image, rotating image]
 ---
 
-# How to rotate an image
+# How to rotate an image with Aspose.Imaging program library
 
 The first type of rotating image is a rotation to a fixed angle of 90/180/270-degree with or without a flip. You just need to load your image and apply the [RotateFlip](https://reference.aspose.com/imaging/net/aspose.imaging/image/rotateflip/) method with a rotate type parameter. We use the type `Rotate270FlipNone` in this example:
 
